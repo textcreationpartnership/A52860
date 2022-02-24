@@ -1,0 +1,376 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The great excellency, usefulness, and necessity of humane learning declared in a sermon, preached before the University, at Great St. Maries church in Cambridge, August the 7th. 1681 / Robert Neville ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52860</idno>
+            <idno type="STC">Wing N521</idno>
+            <idno type="STC">ESTC R10101</idno>
+            <idno type="EEBO-CITATION">11815310</idno>
+            <idno type="OCLC">ocm 11815310</idno>
+            <idno type="VID">49532</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52860)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49532)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 542:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The great excellency, usefulness, and necessity of humane learning declared in a sermon, preached before the University, at Great St. Maries church in Cambridge, August the 7th. 1681 / Robert Neville ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Benjamin Billingsly ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Proverbs XIX, 2 --  Sermons.</term>
+               <term>Sermons, English.</term>
+               <term>Soul --  Sermons.</term>
+               <term>Sermons --  England --  17th century</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49532:1"/>
+            <pb facs="tcp:49532:1" rendition="simple:additions"/>
+            <p>THE GREAT <hi>Excellency, Uſefulneſs, <hi>And</hi>
+               </hi> NECESSITY OF HUMANE LEARNING.</p>
+            <p>Declared in a Sermon, Preached before the Univerſity, at Great St. <hi>Maries</hi> Church in <hi>Cambridge, Auguſt</hi> the 7th. 1681.</p>
+            <p>By <hi>Robert Neville, B.D.</hi> Late Fellow of the King's Colledge in <hi>Cambridge.</hi>
+            </p>
+            <q>
+               <p>And Moſes was Learned in all the Wiſdom of the Egyptians,</p>
+               <bibl>
+                  <hi>Act. 7.22.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Benjamin Billingſley,</hi> at the Printing Preſs under the <hi>Piazza</hi> of the <hi>Royal Exchange</hi> in <hi>Cornhil,</hi> 1681.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:49532:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:49532:2"/>
+            <head>To the Right Worſhipful, Sir <hi>Nicolas Miller</hi> Knight of <hi>Hide Hall</hi> in the County of <hi>Hertford.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>THough I am too ſenſible that the prefixing your name to this Diſcourſe, will look rather like Preſumption than Reſpect; and that I cannot hope for your acceptance of it, without a manifeſt in<g ref="char:EOLhyphen"/>jury to your Judgement; yet I have (in that ſhort time I have had the Honour to be known to you) made ſuch large Diſcoveries of your Goodneſs, as not to doubt but it will ſo far Bribe your Judgement, as to make it accept of that which it cannot approve; eſpe<g ref="char:EOLhyphen"/>cially when the principal end of its Dedication to you, is to Congratulate that late Honour, which his Majeſty (as a Mark of his particular favour) hath ſo de<g ref="char:EOLhyphen"/>ſervedly conferred upon you; nor am I under any apprehenſion, that I ſhall by this Publick Notice of it, draw any Odium or Envy upon you, ſince your being Mounted into the Saddle of Honour, was not the Favour of Fortune, but the Reward of your <pb n="2" facs="tcp:49532:3"/>Exemplary Loyalty; and Honour always ſits ſo well upon Loyal Shoulders, as that it rather attracts love and admiration, than envy; eſpecially when attended with that great Modeſty and Humility, which have been ſo conſpicuous in you, ſince your aſcent into the Sphere of Honour, in imitation of the Stars above, which the higher they are, the leſſer they are wont to appear: Were I not as well aſſured of your great unwil<g ref="char:EOLhyphen"/>lingneſs to have your favours repeated, as I have been ſenſible of your readineſs to beſtow them, I ſhould preſent you with ſuch a Catalogue of my obligations to you, as would ſwell this Epiſtle into a Volume; but I will not in ſo high a nature diſoblige you, who have ſo infinitely obliged me,</p>
+            <closer>
+               <dateline>Anſty
+<date>Aug. <hi>30. 1681.</hi>
+                  </date>
+               </dateline>
+               <salute>Honoured Sir</salute>
+               <signed>
+                  <hi>Your faithful and humble ſervant,</hi> R. Neville.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="3" facs="tcp:49532:3"/>
+            <head>Prov. <hi>19th. the former part of the 2d. verſe.</hi> That the Soul be without knowledge it is not good.</head>
+            <p>IT hath been deſervedly Queſtioned by ſome, whether they were not as much obliged to thoſe, that gave them Education, as to thoſe that gave them Being? for if, as the Philoſopher ſaith, we are born meer Animals, afterwards made men; we are ſo much the more indebted to thoſe, who thus improve and exalt our nature, as arriving to the Excellency of our own Species, is a Prerogative above that of being meer Creatures; and there being not onely Infirmities of Body, but of Soul; It is as great Charity to apparel the Nakedneſs of the Soul, as to Cloth the Body: It is an Honourable Object to ſee the Reaſons of other men wear our Liveries; and their borrow<g ref="char:EOLhyphen"/>ed Underſtandings doe Homage to the Bounty of Ours: and therefore thoſe young branches of the tree of knowledge, that thrive and grow in fruit<g ref="char:EOLhyphen"/>ful Nurſeries of Learning and Education, cannot but Preſent the hand that firſt planted them with their beſt fruits. Upon ſuch Conſiderations, ſe<g ref="char:EOLhyphen"/>veral of the moſt eminent Perſons in the world have loaded their Tutors and Governours, with <pb n="4" facs="tcp:49532:4"/>the greateſt Favours, and Honours imaginable; He, who hath read that <hi>Alexander</hi> the Great (the Univerſal Monarch of that Age) paid a large portion of honour and Veneration, to his Tutor <hi>Aristotle;</hi> and made ampler acknowledgements of his Obligations to him, than to <hi>Philip</hi> his fa<g ref="char:EOLhyphen"/>ther. He, who hath heard of that Decree of the <hi>Senate,</hi> for a Publick Statue for <hi>Junius Ruſticus,</hi> procured by his Royal Pupil, <hi>Marcus Antonius;</hi> and what Honours the Emperor <hi>Trajan</hi> heaped up<g ref="char:EOLhyphen"/>on <hi>Plutarch,</hi> for thoſe good Lectures he read to him, and that the Emperour <hi>Gratian</hi> made his Tu<g ref="char:EOLhyphen"/>tour <hi>Auſonius</hi> Conſul; will be eaſily convinced, that the moſt Heroick and noble Spirits, have ſet a value upon thoſe, who were the Inſtructors and Guides of their firſt years; to which (I conceive) they had no greater inducement, than the conſi<g ref="char:EOLhyphen"/>deration of the great unhappineſs of thoſe, who are left in the dark Chaos of their original Ig<g ref="char:EOLhyphen"/>norance, which Learned and wiſe <hi>Solomon</hi> de<g ref="char:EOLhyphen"/>ſcribes to us, in theſe words of the Text, <hi>That the Soul be without knowledge it is not good.</hi>
+            </p>
+            <p>In which words there are theſe two General Parts.</p>
+            <p>Firſt, An Hypotheſis, or Suppoſition, that the Soul may be without knowledge.</p>
+            <p n="2">2dly. A Theſis, or Poſitive Aſſertion of the
+<pb n="5" facs="tcp:49532:4"/>great inconvenience and evil thereof, expreſt by a figure called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in theſe words, <hi>[It is not good.]</hi> Firſt on the firſt, namely the <hi>Hypotheſis,</hi> or Suppo<g ref="char:EOLhyphen"/>ſition, that the Soul may be without knowledge, and that in theſe two Caſes.</p>
+            <list>
+               <item>1. When it dwells in an Unfit Body.</item>
+               <item>2. When it wants fit Inſtruction, And</item>
+            </list>
+            <p>Firſt, The Soul may be without knowledge, when it dwels in an unfit Body. The Organs of the Body, which the Soul imploys, being as nece<g ref="char:EOLhyphen"/>ſary in this ſtate to produce its Operations, as the Soul it ſelf: hence it is that, in Children, the Or<g ref="char:EOLhyphen"/>gans, either from an exceſs of moiſture, or their ſmalneſs, are indiſpoſed for the vigorous exerciſe of the mind; ſome ſtrictures onely of Reaſon appear<g ref="char:EOLhyphen"/>ing, as Preſaging ſigns of what will be, though mixt with much Obſcurity: but when the Organs are come to their juſt proportion and Temperament, the Soul diſplays its ſtrength and activity. Both the Apprehenſion, that fair Portal, at which knowledge makes its Entry; and the Memory, that rich Treaſury, where 'tis lockt up, depend wholly upon the Diſpoſition of the Brain, and the Animal Spirits, for the performance of their ſeveral Offices; and (as that <hi>Oxford Eſculapius,</hi> the learned Dr.<note n="*" place="margin">De ani<g ref="char:EOLhyphen"/>ma bruto<g ref="char:EOLhyphen"/>rum.</note> 
+               <hi>Willis</hi> hath well obſerved) mens parts and abilities, are according to the number, <pb n="6" facs="tcp:49532:5"/>the activity, and orderly motion of the Spirits: it is from their different Mechaniſm or frame, that men are dull or quick, heavy or ingenious: and we find by experience, that when the Organs of our Bodies have been
+<hi>Untuned,</hi> and our ſpirits wa<g ref="char:EOLhyphen"/>ſted and diſcompoſed by ſickneſs, our Souls can<g ref="char:EOLhyphen"/>not Act with their wonted vivacity: but then our before teeming Invention becomes barren: our Phanſie, which before ſoared aloft, droops and hangs down the Wing; then our memory looſes its Retentive Faculty, and our Notices of things run through, as Water through a Sieve: Thus
+<hi>Thucydides</hi> tells us in his Second Book, that in the great Plague at
+<hi>Athens,</hi> which happened in the ſecond year of the
+<hi>Peloponneſian</hi> War, many perſons, after their recovery, were ſeized with ſuch an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſuch an Oblivion of all things, as that they neither knew themſelves, nor their Ac<g ref="char:EOLhyphen"/>quaintance; their ranſackt memory having loſt its whole Treaſury of knowledge:</p>
+            <p>But then Secondly,</p>
+            <p>A Second Caſe, wherein the Soul may be with<g ref="char:EOLhyphen"/>out knowledge, is when it hath wanted fit inſtru<g ref="char:EOLhyphen"/>ction: The Natural Ornaments of the Under<g ref="char:EOLhyphen"/>ſtanding, Quickneſs of Wit, Excellency of me<g ref="char:EOLhyphen"/>mory, and Solidity of Judgment, are ſeen only in the Acquiſitions made by Study and Art; for
+<pb n="7" facs="tcp:49532:5"/>they, who Trade not with that Patrimony of Nature, looſe moſt of it, and differ little from Beaſts: and we ſee many Children fairly planted, whoſe Parts of Nature were never dreſt by Art; nor called from the Furrows of their firſt Poſſibi<g ref="char:EOLhyphen"/>lities, by Diſcipline and Inſtitution; who dwell for ever in Ignorance, and converſe with Beaſts; and yet if they had been dreſt and exerciſed, might have ſtood at the Chairs of Princes. And as ma<g ref="char:EOLhyphen"/>ny great Defects and Indigencies of Nature, in ſome men, have been wonderfully corrected and repaired, by Induſtry, Education, and (above all) by Converſation; ſo on the contrary, ſome early Bloſſoms in others, which raiſed a great expecta<g ref="char:EOLhyphen"/>tion of rare perfection, have ſuddenly decayed, and inſenſibly withered away, by not being che<g ref="char:EOLhyphen"/>riſht and improved by Diligence, or rather by be<g ref="char:EOLhyphen"/>ing blaſted by Vice, or Supine Lazyneſs: A ſenſe whereof cauſed the
+<hi>Perſians,</hi> of what Rank or Quality ſoever, to ſend their Children to the Schools of Learning, to improve them in Know<g ref="char:EOLhyphen"/>ledg, although they had Eſtates great enough to maintain them in Idleneſs, as<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>lib.</hi> 1.</note> 
+               <hi>Xenophon</hi> tells us. And the <hi>Turks</hi> themſelves, who are generally re<g ref="char:EOLhyphen"/>puted barbarouſly ignorant, yet (as the ingenious Author of the Hiſtory of the preſent State of the <hi>Ottoman</hi> Empire hath informed us) they are well
+<pb n="8" facs="tcp:49532:6"/>inſtructed by their <hi>Kalfa</hi>'s of the
+<hi>Seraglio</hi> in the <hi>Arabian</hi> tongue; wherein all the Secrets and Treaſure of their Religion and Laws are contain<g ref="char:EOLhyphen"/>ed; and are made acquainted alſo with the <hi>Per<g ref="char:EOLhyphen"/>ſian</hi> Tongue, which ſits them with quaint words and Eloquence, becoming the Court of their Prince; and corrects the Groſsneſs, and enriches the Barrenneſs of the <hi>Turkiſh</hi> Language, which in it ſelf is void both of Expreſſion, and Sweetneſs of accent. Learning is to be courted, and made choice of by men, either as a Wife, or a Miſtreſs; the meaner and poorer ſort muſt chooſe Sciences, as they do their Wives, to get a Fortune by them, to live conſtantly with them, and help them to ſubſiſt and thrive in the World. Others, that have more Wealth and Leiſure, muſt chooſe Sciences as they do their Miſtreſſes, to recreate and divert them: ſuch Miſſes as theſe, may be allowed to all our Gallants; and theſe, if frequently converſed with, will take off the edge of their Appetite for others: if they would ſpend more of their time with theſe, they would find that they were (as they are called) Liberal Sciences to them, and did reward them largely.</p>
+            <p>And thus having finiſht the Hypotheſis or Sup<g ref="char:EOLhyphen"/>poſition, that the Soul may be without Know<g ref="char:EOLhyphen"/>ledg; I ſhould now proceed to the Theſis, and
+<pb n="9" facs="tcp:49532:6"/>ſhew, how Ill it is. In order whereunto I ſhall, by way of Introduction, enquire, what know<g ref="char:EOLhyphen"/>ledge it is which is here commended to us; for the better diſcovery whereof, I ſhall rank ail kinds of knowledge under theſe two Heads,</p>
+            <list>
+               <item>1. Humane: or,</item>
+               <item>2. Divine Knowledge.</item>
+            </list>
+            <p n="1">1. I ſhall offer at ſomething in commendation of Humane Learning, which is not altogether forreign to the Text: for though when
+<hi>Solomon</hi> ſpeaks of Knowledge, it is to be primarily under<g ref="char:EOLhyphen"/>ſtood of Divine and Spiritual, yet is it not whol<g ref="char:EOLhyphen"/>ly Excluſive of Humane Knowledg: He, that hath this, though but Humane, knowledg, is to be prized as much above the richeſt, and greateſt, of thoſe unprofitable Animals, who underſtand no other Language, but that of their Dogs, and know only how to Act the Town Fop, Swear and Rant, Hector and Deboſh, Waſt and Riot, as an Ant, or a Bee, above a Caterpillar, Graſs<g ref="char:EOLhyphen"/>hopper, or Butterfly.</p>
+            <p>The boundleſs and inquiſitive Reſearches of the Soul after-knowledg, is not the leaſt Argu<g ref="char:EOLhyphen"/>ment of its Spiritual and Incorporeal Nature; and that it is Acted by a higher Principle, than meer Matter and Motion: Our Minds naturally graſp at a kind of Omniſciency; and not content with the Speculations, of this or that particular Science, <pb n="10" facs="tcp:49532:7"/>hunt over the whole Courſe of Nature; nor are they ſatisfied with the preſent State of things, but purſue the Notices of former Ages, and are deſir<g ref="char:EOLhyphen"/>ous to Comprehend whatever tranſactions have been, ſince time it ſelf had a Being: we endea<g ref="char:EOLhyphen"/>vour to make up the ſhortneſs of our Lives by the extent of our Knowledg; and becauſe we can<g ref="char:EOLhyphen"/>not ſee forward, and ſpy what lyes concealed in the Womb of Futurity, we look back, and ea<g ref="char:EOLhyphen"/>gerly trace the Footſteps of thoſe times, that went before us: indeed to be ignorant of what hap<g ref="char:EOLhyphen"/>pened, before we our ſelves came into the World, is (as<note n="*" place="margin">de O<g ref="char:EOLhyphen"/>ratore</note> 
+               <hi>Cicero</hi> truly obſerves) to be always Chil<g ref="char:EOLhyphen"/>dren, and to deprive our ſelves of what would at once entertain our Minds with the higheſt pleaſure, and add the greateſt authority and ad<g ref="char:EOLhyphen"/>vantage to us.</p>
+            <p>It is the Nature of all knowledg, to give a kind of Strength and Preſence of Mind, to the Owner and Poſſeſſor; this will ſecure us, as from the Rocks of Atheiſm, by leading us to the Notice of ſome firſt Cauſe, to which all Second Cauſes gradually aſcend, ſo alſo from the Shelves of Su<g ref="char:EOLhyphen"/>perſtition, by acquainting us with Second Cauſes: For Phanſie is apt to ſuggeſt many monſtrous and ſuperſtitious Notions of thoſe things, of whoſe <pb n="11" facs="tcp:49532:7"/>cauſes and Natures we are unreſolved; all which fly (like Shadows) before the approaching Beams of Knowledg; which leads us, as men do Horſes, cloſe up to the things we Start at, and gives us a thorough View, of what frighted us before: One of the beſt remedies againſt Prophaneneſs, is a knowledg and Skill in Nature, which will be apt to beget in men a Veneration of the God of Na<g ref="char:EOLhyphen"/>ture: and therefore to thoſe Nations, who have been deſtitute of Revelation, the ſame Perſons have been, both their Philoſophers and their Prieſts; thoſe, who had moſt skill in one kind of knowledg, being thought moſt fit to inſtruct and direct men in the other: and if we conſult the Stories of other places, and times, we ſhall conſtantly find thoſe Nations, moſt ſolemn and devout in their Worſhip, who have been moſt learned, moſt knowing: And that, on the contrary, thoſe other Nations in <hi>America</hi> and <hi>Africa,</hi> whom Travellers report to be moſt deſtitute of Religion, are withall moſt bru<g ref="char:EOLhyphen"/>tiſh and ignorant. Nay, if we will believe St.<note n="a" place="margin">lib. <hi>18.</hi> de Civ. Dei.</note>
+               <hi>Auguſtin,</hi>
+               <note n="b" place="margin">De prae<g ref="char:EOLhyphen"/>paratione Evangel. lib.
+<hi>10.</hi>
+               </note> 
+               <hi>Euſebius,</hi>
+               <note n="c" place="margin">In Pro<g ref="char:EOLhyphen"/>treptic. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Clemens Alexandri<g ref="char:EOLhyphen"/>nus,</hi> and ſome other Writers of good Repute, Gods own People (the ancient Patriarchs) were famous and eminent for their Learning and Knowledge; and that
+<hi>Moſes</hi> appointed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Maſters <pb n="12" facs="tcp:49532:8"/>among the Tribes, which initiated and inſtruct<g ref="char:EOLhyphen"/>ed the youth of
+<hi>Iſrael,</hi> in all kind of Secular Learn<g ref="char:EOLhyphen"/>ing: and <hi>Abraham</hi> (for which<note n="*" place="margin">De pre<g ref="char:EOLhyphen"/>par. Evan<g ref="char:EOLhyphen"/>gelicâ, lib. <hi>9.</hi> p. <hi>244.</hi>
+               </note> 
+               <hi>Euſebius</hi> quotes <hi>Nicolas Damaſcenus</hi>) was well skilled<g ref="char:punc">▪</g> in the Ma<g ref="char:EOLhyphen"/>thematicks, which he communicated and diſperſ<g ref="char:EOLhyphen"/>ed in <hi>Chaldea;</hi> from whence the
+<hi>Egyptians,</hi> and from them the <hi>Grecians</hi> did afterwards receive it; and <hi>Enoch</hi>
+               <note n="*" place="margin">ibidem, pag.
+<hi>245.</hi>
+               </note> was probably judg'd by <hi>Polyhiſtor</hi> to be that
+<hi>Atlas,</hi> to whom the Heathens did aſcribe the beginning of Aſtronomy: in ſhort, all Learning was thought by them, to have been Originally among the Hebrews; and that, from them by ſtealth and filching, ſome ſeeds of it were ſown in <hi>Phaenicia, Egypt,</hi> and at laſt in
+<hi>Greece;</hi> for they make it plain by Computation, that <hi>Moſes</hi> (who yet was long after <hi>Enoch, Sem, Heber,</hi> and <hi>Abra<g ref="char:EOLhyphen"/>ham,</hi> all great Scholars) was fifteen hundred years ancienter than any of the Greek Philoſophers; that all Learning, that is found, or bragged of, among the
+<hi>Grecians,</hi> was but a Babe of a day old, in reſpect of that of Gods own people; and that all their Philoſophy was but ſome <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, ſome fragments, or Scraps, which fell from the Ta<g ref="char:EOLhyphen"/>bles of the <hi>Jews;</hi> and it were eaſie to demonſtrate that No ſmall part of the Heatheniſh Mythology, and Divinity, was fetcht from the Hebrew Sto<g ref="char:EOLhyphen"/>ries and Practices: As the Greek Poet ſaith of the <pb n="13" facs="tcp:49532:8"/>
+               <hi>Cretians,</hi> that they were always<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Calli<g ref="char:EOLhyphen"/>mach.</note> lyars; ſo I may ſay of the Greeks themſelves, that they were al<g ref="char:EOLhyphen"/>wayes Thieves: though they bragged that all Learning came from them, yet in truth (as <hi>Ta<g ref="char:EOLhyphen"/>tianus</hi> tells us) they were but like the Crow, not<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> adorned with their own Feathers, but with thoſe they had ſtol'n from their Neighbours; and drew their Dogmata or Aſſertions, from the Foun<g ref="char:EOLhyphen"/>tain of holy Writings; and having buſie and in<g ref="char:EOLhyphen"/>quiſitive Minds, whatſoever they found in <hi>Moſes,</hi> or other Divine Philoſophers, they endeavored <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to ſet another Stamp upon it, and make it paſs for their own: and if we conſult the New Teſtament, we ſhall find, that St. <hi>Paul</hi> was ſo great a Scholar, as to diſpute with the Stoicks, Epicureans, and other Philoſophers, according to their own Notions, which he had learnt at the feet of
+<hi>Gamaliel;</hi> being as converſant in the Lear<g ref="char:EOLhyphen"/>ning of the Greeks, as
+<hi>Moſes</hi> had been before in that of the <hi>Egyptians;</hi> and the reſt of the Apoſtles were made great Linguiſts, and endued from a<g ref="char:EOLhyphen"/>bove with Tongues, and all Knowledg; ſo that they were reputed at firſt among the Gentiles as a new Sect of Philoſophers; and in ſucceeding Ages, the Prime Fathers of the Church were of the Converted Rhetoricians, and Philoſophers, as <hi>Ignatius, Clemens, Ireneus, Juſtin Martyr, Athenago<g ref="char:EOLhyphen"/>ras, <pb n="14" facs="tcp:49532:9"/>Tertullian, Origen, Lactantius,</hi> and divers o<g ref="char:EOLhyphen"/>thers. And this ſhall ſuffice for the firſt kind of Knowledg I was to commend to you; namely, Humane Knowledg: I now aſcend to a Know<g ref="char:EOLhyphen"/>ledg of a higher nature, and that is</p>
+            <p n="2">2. Divine Knowledg, or the Knowledg of God, and of thoſe things, that conduce to our eternal Happineſs. There are many indeed in the World, that pretend to knowledg; and the Sons of <hi>Adam</hi> are now as buſie, as ever himſelf was about the Tree of Knowledg; ſhaking the Boughs of it, and ſcrambling for the fruit; whilſt, I fear, many are too unmindful of the Tree of Life; and though there be now no Che<g ref="char:EOLhyphen"/>rubims, with their flaming Swords to keep men from it, yet the way, that leads to it, ſeems to be ſolitary and untrodden; as if there were but few that had any Mind to taſte of the fruit of it. All mens Care and Study is for Knowledg; ne<g ref="char:EOLhyphen"/>ver prizing or cheapning ſo poor a Commodity as Life: All Sin is<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> from the Tree of Know<g ref="char:EOLhyphen"/>ledg, ſaith
+<hi>Clemens</hi> of <hi>Alexandria;</hi> it grows upon that tree; men for moſt part having Brains to underſtand, eyes to ſee, and tongues to pro<g ref="char:EOLhyphen"/>feſs, but neither hearts to apply, nor hands to practiſe, nor Feet to walk in the ways of Gods Commandements: there was never any age,
+<pb n="15" facs="tcp:49532:9"/>that boaſted more of knowledg than this, and the men thereof ſeem to abound with it; but yet, if we may judge of the Tree by its fruits; if we obſerve the actions and practices of theſe men, and take notice how faintly the Light of their knowledg ſhines before men in a virtuous and holy Converſation, we may ſafely conclude, that their Science is falſely ſo called; and that they are like the Gnoſticks of old, who boaſted much of their Knowledg, from whence they had their name; yet becauſe they did not direct their know<g ref="char:EOLhyphen"/>ledg to a Right End, and it did not beget in them a due Reverence of God and his Laws, but taught them rather to make their Braines a Mint, for the Coining new Errors and Hereſies, it did not de<g ref="char:EOLhyphen"/>ſerve the name of Knowledg. If a man were Maſter of all the Knowledg of Nature and Art, intimately acquainted with all Sciences, if he could attain to a Command of all Languages, and could give an exact account of the Order and Motion of all the Stars, diſcourſe of the Intrigues of all States, and the Hiſtory of all Ages, and yet ſhould be deſtitute of the knowledg of God, and of Chriſt, all this would be but a more Splen<g ref="char:EOLhyphen"/>did and Glorious kind of Ignorance. The Con<g ref="char:EOLhyphen"/>templations of thoſe things, that do not contri<g ref="char:EOLhyphen"/>bute to the promoting our Eternal Happineſs are <pb n="16" facs="tcp:49532:10"/>but a more Venial and Reputable Kind of Igno<g ref="char:EOLhyphen"/>rance, and will onely Qualify us to Commence Infernal Fiends, and take our Degrees in Satans Univerſity; and make us Members of his Helliſh Society.</p>
+            <p>What doth it profit a Man to know all the Motions of the Celeſtial Bodies, and the Influ<g ref="char:EOLhyphen"/>ences of the Stars, if he does not know Chriſt, the Bright<note n="*" place="margin">
+                  <hi>Rev.</hi> 22.16.</note> Morning Star? is any deſirous to know ſome new thing? the beſt Novelty is the New Creature. What great Folly is it in ſome men, to be curiouſly inquiſitive how their Souls were conveyed into their Bodies, but wretched<g ref="char:EOLhyphen"/>ly careleſs how they go out? or to Diſpute who is Anti-Chriſt, when they themſelves are no Chri<g ref="char:EOLhyphen"/>ſtians? or contend that Chriſt died for all, when they will not reconcile their Practices to their O<g ref="char:EOLhyphen"/>pinions, but Reprobate and Damn themſelves? Diſputation is no proper Antidote againſt any one Vice, but an Introduction to very many; and ſometimes makes Paſſion evaporate into ſin; the beſt Diſputant being often the worſt Practitioner. When
+<hi>Eudamidas</hi> the Son of <hi>Archidamas</hi> heard old <hi>Xenocrates</hi> diſputing about Wiſdom, he asked ve<g ref="char:EOLhyphen"/>ry ſoberly, <hi>if the old man he yet diſputing concerning Wiſdom, what time will he have to make uſe of it?</hi> Chriſtianity is all for Practice, and men enquire
+<pb n="17" facs="tcp:49532:10"/>ſo long what it is, that they have but little time left to be Chriſtians. And this ſhall ſuffice for thoſe two ſorts of Knowledg, the Soul of man ſhould be inſtructed in, namely Humane and Di<g ref="char:EOLhyphen"/>vine Knowledg; I proceed now to the</p>
+            <p>Second General part of my Text, namely the Theſis, or poſitive Aſſertion, that <hi>it is not good that the Soul ſhould be without Knowledg;</hi> the want of Knowledg is a great Prejudice and Dammage to the Soul; of which, that I may the better con<g ref="char:EOLhyphen"/>vince you, I will ſhew you</p>
+            <list>
+               <item>1. The great Pleaſure and delight that is to be found in Knowledg.</item>
+               <item>2. Its many Excellencies and Advantages. And,</item>
+               <item>3. The great Uſefulneſs and Neceſſity of it in all States and Conditions of Life.</item>
+            </list>
+            <p n="1">1. The great Pleaſure and Delight, that is to be found in Knowledg: thoſe who are poſſeſt with a Noble Paſſion for knowledg, how do they deſpiſe all lower pleaſures in companion of it? how do they forget themſelves, neglect the body, and retire into the mind, the higheſt part of man, and neareſt to God? As the appearance of light, though not attended with any other viſible Beau<g ref="char:EOLhyphen"/>ties, refreſhes the Eye after long darkneſs; ſo the clear knowledg and diſcovery of Truths, how
+<pb n="18" facs="tcp:49532:11"/>abſtract ſoever, is grateful to the Intellectual Fa<g ref="char:EOLhyphen"/>culty: thus ſome men have been ſtrangely tranſ<g ref="char:EOLhyphen"/>ported with the pleaſure of a Mathematical De<g ref="char:EOLhyphen"/>monſtration, when the <hi>Evidence</hi> only, not the <hi>Importance,</hi> of the thing, was raviſhing and de<g ref="char:EOLhyphen"/>lightful.
+<hi>Solon,</hi> when near his End, and ſome of his Friends were whiſpering ſoftly about a Point of Philoſophy, on the ſudden opened his eyes, and raiſed his head to give attention; where<g ref="char:EOLhyphen"/>of being asked the reaſon, he replied, <hi>that</hi>
+               <note n="*" place="margin">Ut cum iſtud, quicquid eſt, de quo diſputatis percepero moriar. <hi>Valer. Maxim.</hi>
+               </note> 
+               <hi>when I underſtand, what you are diſcourſing of, I may dye;</hi> ſuch was his delight in knowledg, that a little of it made his Agony inſenſible; and
+<hi>Tully,</hi> whilſt he was reading a Treatiſe of Philoſophy, breaks out into this kind of Ecſtaſie, <hi>O philoſophia, unus dies ex praeceptis tuis actus peccanti immortalitati eſt an<g ref="char:EOLhyphen"/>teponendus!</hi> and
+<hi>Socrates</hi> (ſo real a pleaſure did he find in Philoſophical Knowledg) was ſaid to have given thanks to God among other things, that (by his Providence) he was a Philoſopher.</p>
+            <p>To be reviewing the Receſſes of Nature, and the beautiful inſide of the Univerſe, is a more manly, yea Angelical Felicity, than the higheſt gratification of the Senſes, which is ſuch a low de<g ref="char:EOLhyphen"/>gree of Happineſs, as is common to the youthful Epicure with his Hounds and Horſes. And as Knowledg is Pleaſant and Delightful, ſo</p>
+            <p n="2">2. Hath it in it many Excellencies and Advan<g ref="char:EOLhyphen"/>tages;
+<pb n="19" facs="tcp:49532:11"/>What is it in this World, on which men put the greateſt value? Silver, Gold, Jewels, yet even theſe muſt give the pre-eminence, and ſtrike Sail to Knowledg, which<note n="*" place="margin">
+                  <hi>Job</hi> 28.15,
+16, 18</note> 
+               <hi>cannot he gotten for gold, neither ſhall ſilver be weighed for the price thereof; it cannot be valued with the gold of Ophir, with the precious Onyx, or the Saphire; no mention ſhall be made of Coral, or of pearles, for the price of it is above Rubies:</hi> Could the excellency and beauty of Knowledg be preſented to the eye of man; the fineſt Gold would looſe its Shine and Luſtre, the faireſt Pearls would ſoon grow Pale, and the richeſt Rubies would bluſh for ſhame, to ſee themſelves ſo much outvied and excelled by it; Knowledg communicates an unſpeakable excel<g ref="char:EOLhyphen"/>lency to the perſons of men; and we may ſay the ſame of it, that the Preacher does of Wiſdom,<note n="*" place="margin">
+                  <hi>Eccl.</hi>
+8.1.</note> 
+               <hi>it makes a mans face to ſhine.</hi> Knowing and in<g ref="char:EOLhyphen"/>telligent men on earth are like the ſtars in heaven, ſay the Hebrew Doctors: Knowledg undoubt<g ref="char:EOLhyphen"/>edly tranſcends Ignorance, as far as Light excels Darkneſs: there is not more difference betwixt a Man and a Beaſt, than betwixt a knowing and an Ignorant Perſon; a wiſe, knowing man, though without Wealth, as much excelling a Rich man without Knowledg, as an Angel does an Aſs laden With Gold; Riches are but Appen<g ref="char:EOLhyphen"/>dages <pb n="20" facs="tcp:49532:12"/>and Acceſſions to the outward Grandeur, Knowledg is an Imbelliſhment and Ennoblement of the mind of man: it being an Error worſe than Hereſie, to adore the Complemental and Circumſtantial pieces of Felicity, ſuch as are the Gifts of Fortune; and undervalue thoſe perfecti<g ref="char:EOLhyphen"/>ons, and eſſential parts of Happineſs, wherein we reſemble our Maker: to which I may alſo add, that</p>
+            <p n="3">3. Knowledg is uſeful and neceſſary in all States and Conditions of Life; which we ſhall the more eaſily diſcover, if we conſider the great inconveniences, that attend thoſe Perſons, who want Knowledg; and they are two</p>
+            <list>
+               <item>1. The Want of Knowledg is attended with great Sins, and</item>
+               <item>2. With great Miſeries.</item>
+            </list>
+            <p n="1">1. The Want of Knowledg is attended with great Sins; and therefore it was not without good Reaſon, that <hi>Cebes</hi> in his Table, quotes theſe words of <hi>Plato,</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>Learning is as it were the Bridle of youth, and keeps it from worſe employments:</hi> and a<g ref="char:EOLhyphen"/>gain he tells us, <hi>that the attainment of Learning cures the Soul of all Diſeaſes:</hi> and
+<hi>Plotinus</hi> moſt truly af<g ref="char:EOLhyphen"/>firms, <hi>that it is from</hi>
+               <note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> 
+               <hi>falſe Opinions, that men are ſo fond of their Vices;</hi> that it is for want of right No<g ref="char:EOLhyphen"/>tions, and Apprehenſions, of things: and there<g ref="char:EOLhyphen"/>fore <pb n="21" facs="tcp:49532:12"/>the Right Honourable and Learned, the late Earl of <hi>Clarendon,</hi> in the Epiſtle Dedicatory to his Survey of Hobs his Leviathan, truly charges all the Errors of that Book, upon the Author's con<g ref="char:EOLhyphen"/>ſulting, and making uſe of too few Books. When men are without knowledg, they will be apt not onely to <hi>Commit,</hi> but alſo to <hi>Conſecrate their wickedneſs;</hi> and becauſe ſuch ignorant Zelots, as theſe, have not Light proportionable to their
+<hi>Heat,</hi> they become Schiſmatical: St. <hi>Paul</hi> indeed tells us,<note n="*" place="margin">
+                  <hi>Gal.</hi> 4.8</note> 
+               <hi>it is good to be zelouſly affected,</hi> but it muſt be in a good thing; and not onely ſo; for he ſpeaks of ſome who had a godly Zele, and yet in them too there was ſomething wanting, they<note n="*" place="margin">
+                  <hi>Rom.</hi> 10.2.</note>
+               <hi>had it not according to knowledg;</hi> and there<g ref="char:EOLhyphen"/>fore St.
+<hi>Auguſtin</hi> commends Zele, as good in <hi>David,</hi> who was a knowing, and a wiſe King, when he ſaid, <hi>the zele of thy houſe hath eaten me up;</hi> but on the other ſide condemns it as bad, and unbeſeem<g ref="char:EOLhyphen"/>ing the ignorant Multitude, when 'tis ſaid of them<note n="*" place="margin">Zelus occupavit plebem in<g ref="char:EOLhyphen"/>eruditam. lib. <hi>20.</hi> de Civitate Dei cap. <hi>12.</hi>
+               </note> 
+               <hi>Zele hath poſſeſſed an ignorant Multitude:</hi> For Zele in Religion without knowledg will flame ſo furiouſly, that it will not ſo much <hi>Kindle,</hi> as <hi>Burn</hi> up Devotion; and conſume the Sacrifice, the Altar, and the Prieſt himſelf too. An ig<g ref="char:EOLhyphen"/>norant Zelot (being overheated with a Calen<g ref="char:EOLhyphen"/>ture of Zele) like his brother <hi>Fanatick Eunus</hi> (in <pb n="22" facs="tcp:49532:13"/>
+               <hi>Lucius Florus</hi>) who, that he might be thought in<g ref="char:EOLhyphen"/>ſpired, put a Nut-ſhell into his Mouth filled with Fire and Brimſtone, He ſpits Fire, and breaths forth Flames, with his words:</p>
+            <p>This Burning Zeal it is, that makes him often aſſault Chriſtianity with its own weapons, fight againſt our Saviour under his own Banner; and whilſt he thinks to Win heaven by Storm, he <hi>makes the Kingdom</hi> (where he lives) <hi>ſuffer</hi>
+               <note n="*" place="margin">
+                  <hi>Mat.</hi> 11.12.</note> 
+               <hi>Vio<g ref="char:EOLhyphen"/>lence,</hi> and endeavours to
+<hi>Force it</hi> without a Meta<g ref="char:EOLhyphen"/>phor. The Ignorant Zelot, who, wanting ſuf<g ref="char:EOLhyphen"/>ficient Authority to warrant his actions, takes a groundleſs Opinion for his Foundation, and makes not Reaſon his Judge in the Conſult, can receive no aſſiſtance from it in the heat of action; he hath then loſt all Command of himſelf; and, as his Ignorance continues, ſo his vehemence, and conſequently his danger, does increaſe; He will ſtill follow the ſame blind guide, that firſt miſled his devotion; not knowing either how to ſtop his Carreer, or direct his Courſe; like one that puts out to Sea, without the aſſiſtance of either Sailes, Compaſs, or Anchors, he lyes at the Mercy of every Wind and Tide, and is in danger of being foundred upon every Shallow, and ſplit upon e<g ref="char:EOLhyphen"/>very Rock: and this brings me to the ſecond in<g ref="char:EOLhyphen"/>convenience, that accompanies the Want of know<g ref="char:EOLhyphen"/>ledg; and that is</p>
+            <pb n="23" facs="tcp:49532:13"/>
+            <p n="2">2. That it is attended with great miſeries; we are told
+<hi>Eccl.</hi> 7.11. <hi>Wiſdom is good with an inheritance:</hi> Wiſdom and an inheritance are beſt indeed when in Conjunction; they thrive beſt when they are <hi>Meet Helps,</hi> and <hi>Married</hi> together; but if they muſt be <hi>Divorced,</hi> as ſometimes they are; Know<g ref="char:EOLhyphen"/>ledg will prove a better Support to us without an Inheritance, than the largeſt treaſures of wealth can without Knowledg: and hence it was that <hi>Cra<g ref="char:EOLhyphen"/>tes,</hi> that noble
+<hi>Theban,</hi> put 200 Talents of Silver in<g ref="char:EOLhyphen"/>to the Common Bank, upon condition that if his Sons were Fools and Idiots, they ſhould have them again; but that if they were Philoſophers, and men of Learning, they ſhould be given to the people; for he thought that then his Sons would not need them; He looked upon the Furniture and Accom<g ref="char:EOLhyphen"/>pliſhments of the mind, as better Riches than the largeſt Doles of Fortune, and the Wealth and Revenues of an ample Inheritance: And the Philoſopher <hi>Ariſtippus</hi> was wont to ſay, <hi>that 'tis far better to be a Beggar than unlearned;</hi> for he only wants Wealth, whereas the illiterate Perſon of<g ref="char:EOLhyphen"/>tentimes wants Humanity it ſelf: that Sore Evil under the Sun Solomon declaimes againſt, name<g ref="char:EOLhyphen"/>ly, Riches laid up for the Owners thereof to their Hurt, is never ſo viſible and apparent, as when Riches are in the Poſſeſſion of ignorant and weak men, who are made a Laughing-ſtock and Prey <pb n="24" facs="tcp:49532:14"/>to others, and a Snare to themſelves: what gol<g ref="char:EOLhyphen"/>den Aſſes are they (as
+<hi>Caeſar</hi> called rich but unlear<g ref="char:EOLhyphen"/>ned <hi>Syllanus</hi>) to bear thoſe Burdens of Jeers and Scoffs, which more ingenious and witty men do load them with? For there is an ignorant Rabble among the Rich, a Sort of
+<hi>Plebeian</hi> heads, whoſe Phanſie moves in the ſame Wheel, men in the ſame Level with Mechanicks, though their For<g ref="char:EOLhyphen"/>tunes guild over their Infirmities, and their Purſes Compound for their Folly; and 'tis often found that they, who have <hi>Midas</hi> his Wealth, have alſo his Aſſes ears entailed upon them;</p>
+            <p>
+               <note n="*" place="margin">Juvenal Satyr. <hi>8.</hi> ver.
+<hi>73.</hi>
+               </note> 
+               <hi>Rarus enim ferme ſenſus communis in illa Fortuna,</hi> ſaith the Satyriſt. He that is Rich in wealth is uſually Poor in Wiſdom and Knowledg, and his head is as empty as his Purſe is full: Knowledg is the Fortreſs and Security of every State and Condition of Life: Wealth without Knowledg is an unſafe injoyment, and certain to be abuſed or waſted; and the ſame may be ſaid of a Rich man without Knowledg, that
+<hi>Solomon</hi> does of a fair Woman without diſcretion<note n="*" place="margin">
+                  <hi>Prov.</hi> 11 22.</note> as a jewel of Gold in a Swines ſnout ſo is a Rich man without Knowledg. Power alſo, unleſs directed by Knowledg, (like the dreadful thunder) breaks all in pieces: or it is but as the ſtrength of a beaſt, dangerous and deſtructive; or as a Sword in a
+<pb n="25" facs="tcp:49532:14"/>mad mans hand, which becomes the inſtrument of rage and Folly: It is indeed a very dangerous Station, as being the fitteſt Stage to expoſe a Man's weakneſs upon, and will at laſt either be leſſen'd or quite loſt; and that perſon, who wants knowledg to Steer his Power; will either run himſelf upon Rocks, or ſtick faſt in the Shallows of his own Ignorance, till all men give him a <hi>Broadſide of Scoffs</hi> and
+<hi>Abuſes,</hi> and thereby at laſt Sink his Reputation: for He, that is look<g ref="char:EOLhyphen"/>ed upon to be of no other <hi>Quorum,</hi> but that of the
+<hi>Ignorantes,</hi> is eſteemed by knowing and diſcern<g ref="char:EOLhyphen"/>ing men, but as a
+<hi>Worſhipful Idol,</hi> or <hi>Image,</hi> in a piece of Arras; or rather as the meer picture of Juſtice, which exactly repreſents his Worſhip's
+<hi>Blind Ignorance</hi> by her being pictur'd <hi>Blind.</hi> And as Magiſtrates, ſo alſo ought Miniſters to be en<g ref="char:EOLhyphen"/>dued with Knowledg, leaſt they render their Calling cheap and contemptible: for,<note n="*" place="margin">
+                  <hi>Mal.</hi> 2.7.</note> the <hi>Prieſts lips ſhould keep Knowledg:</hi> and God himſelf declares, that thoſe are not fit for Holy Orders, that reject Knowledg;<note n="*" place="margin">
+                  <hi>Hoſ.</hi>
+4.6.</note> 
+               <hi>Becauſe thou haſt rejected knowledg, I will alſo reject thee, that thou ſhalt be no Prieſt to me.</hi>
+            </p>
+            <p>A Buſineſs of ſo great importance, as Under<g ref="char:EOLhyphen"/>ſtanding, and Expounding the Scriptures (which requires, multiplicity of Authors) is a matter of <pb n="26" facs="tcp:49532:15"/>great Learning, which cannot in a ſhort time and with ſmall pains be attained; For if, in the A<g ref="char:EOLhyphen"/>poſtles times, when much of the Scripture was ſcarcely written, and God was pleaſed to teach men by Miracles, St. <hi>Paul</hi> required diligent Read<g ref="char:EOLhyphen"/>ing; much more is it neceſſary in our times wherein God does not ſupply our natural defects by Miracles, and yet the Burden of our Profeſſi<g ref="char:EOLhyphen"/>on is infinitely encreaſed: For if we add to the growth of Chriſtian Learning (as it was in the Apoſtles times) but this one Circumſtance, which is highly requiſite in our times, but was not ſo in theirs, namely the Knowledg of the State and Succeſſion of Doctrine in the Church from time to time, a thing very neceſſary for the determin<g ref="char:EOLhyphen"/>ing the Controverſies of theſe our dayes, how great a Stock of Learning will this require? ſo that you plainly ſee, that the moſt inſignificant and worthleſs <hi>Chip</hi> of the whole
+<hi>Block</hi> is not fit to make <hi>Timber</hi> for the <hi>Pulpit: ex quovis ligno non fit Mercurius;</hi> and ſo theſe <hi>Mercuries,</hi> theſe Meſſen<g ref="char:EOLhyphen"/>gers, of the great God of Heaven and Earth, muſt not be hew'd out of every Block; leaſt their more acute Auditors ſerve them, as the Frogs in the Fable did the Log, inſult over, ſlight, and trample upon them; theſe are the fruits of the want of Knowledg as to particular Perſons;
+<pb n="27" facs="tcp:49532:15"/>let us next conſider the great inconveniences, that attend</p>
+            <p n="2">2. Thoſe Places or Kingdoms, where theſe Perſons that want Knowledg live and reſide; and we ſhall find their want of Knowledg a great Enemy</p>
+            <list>
+               <item>1. To their Proſperity.</item>
+               <item>2. To their Peace. And</item>
+               <item>3. To their Religion.</item>
+            </list>
+            <p n="1">1. We ſhall find the Want of Knowledg an Enemy to the Proſperity of thoſe Places or King<g ref="char:EOLhyphen"/>doms, where Perſons, that want Knowledg, live and reſide. If a Kingdom would grow great and proſperous, its Proſperity muſt be built upon one of theſe two Pillars, either Trade or War; Now Learning is a great Advancer of Trade in times of Peace; and a Bulwark to a Nation in time of War. As for Trade, how can that be propagat<g ref="char:EOLhyphen"/>ed, how can we export our Wares and Merchan<g ref="char:EOLhyphen"/>diſes, without Coſmography to bring us acquain<g ref="char:EOLhyphen"/>ted with other Countries? without Navigation to waft and tranſport us thither? how can we have a free and Univerſal Trade, without forrein Languages, to converſe with the Natives of the ſeveral Places, where the
+<hi>Scene</hi> of our Traffick lyes? Nor is Learning leſs advantagious and uſe<g ref="char:EOLhyphen"/>ful in time of War; As contrary as the Goddeſs <pb n="28" facs="tcp:49532:16"/>of War, <hi>Bellona,</hi> ſeems to <hi>Minerva,</hi> the Goddeſs of all Arts and Wiſdom, yet war cannot be ſuc<g ref="char:EOLhyphen"/>ceſsfully managed without her Aſſiſtance: it is not a fierce and brutiſh Courage onely that proves Victorious; there muſt be wiſe Heads, as well as couragious Hearts, to obtain a complete and Abſolute Conqueſt.</p>
+            <p>It is by the help of Mathematicks that the Sol<g ref="char:EOLhyphen"/>dier draws his Lines of Circumvallation; Aſtro<g ref="char:EOLhyphen"/>nomy is neceſſary for Navigation; Hiſtory muſt acquaint us with Warlike Stratagems and State In<g ref="char:EOLhyphen"/>trigues: Some of the greateſt <hi>Commanders</hi> in the World have been men of great learning; what <hi>Julius Caeſar</hi> was, his Commentaries ſufficiently declare; and by that book of his, called <hi>Anti-Ca<g ref="char:EOLhyphen"/>to,</hi> 'tis eaſie to be ſeen, that he did aſpire as well after a Victory in Wit and Learning, as in a War; by engaging with one of the greateſt Maſters of Wit and Eloquence that then lived, the Orator of <hi>Rome, Marcus Cicero.</hi> That famous Comman<g ref="char:EOLhyphen"/>der <hi>Epaminondas</hi> was educated under <hi>Lyſias</hi> the
+<hi>Py<g ref="char:EOLhyphen"/>thagorean;</hi> and <hi>Xenophon,</hi> that great Soldier as well as Scholar, gained as much credit by his Pen, as his Sword; his pure ſtrains of
+<hi>Attick Greek</hi> have procured him the glorious Appellation of
+<hi>Atheni<g ref="char:EOLhyphen"/>an</hi> Bee; ſo neceſſary is it for the Proſperity of a Place or Kingdom, that the Soul ſhould not be <pb n="29" facs="tcp:49532:16"/>without Knowledg; which is alſo neceſſary for the Peace of it; and this brings me to the</p>
+            <p n="2">2. Thing I was to ſhew you, namely that the Want of Knowledg is an Enemy to the Peace of a Kingdom. Ignorance makes men Stubborn and Mutinous; the moſt Barbarous and unlearn<g ref="char:EOLhyphen"/>ed times having been moſt ſubject to tumults and Seditions, when the times of Learning have been times of Peace and Quietneſs: and (if we conſult the Hiſtories of thoſe times) we ſhall find that the <hi>Romans</hi> never aſcended to the height of their Empire, till they arrived to a Conſiderable Height in Arts and Sci<g ref="char:EOLhyphen"/>ences; for in the time of the two firſt <hi>Caeſars, Juli<g ref="char:EOLhyphen"/>us</hi> and
+<hi>Auguſtus,</hi> when their Government was at its higheſt
+<hi>Zenith,</hi> lived <hi>Virgil</hi> the Prince of Poets, the beſt Hiſtoriographer <hi>Titus Livius,</hi> the beſt Antiquary <hi>Marcus Varro;</hi> and the beſt of Orators <hi>Marcus Cicero:</hi> and in the Records of time it ap<g ref="char:EOLhyphen"/>pears, that the Government of Princes in Mino<g ref="char:EOLhyphen"/>rity have exceeded the Governments of thoſe of mature and full Age, becauſe they were under the Tuition of ſome learned man; For ſo was the State of
+<hi>Rome</hi> for the firſt five years of <hi>Nero</hi>'s Minority, ſo much commended, in the hands of <hi>Seneca, Nero</hi>'s Tutor: So was it again for ten years ſpace or more, during the Minority of <hi>Gor<g ref="char:EOLhyphen"/>dianus</hi>
+               <pb n="30" facs="tcp:49532:17"/>the younger, with great applauſe in the hands of his Tutor <hi>Miſitheus.</hi> And as the want of Knowledg is an Enemy to a Kingdoms Peace, ſo is it</p>
+            <p n="3">3. To the Eſtabliſhed Conſtitution of its Re<g ref="char:EOLhyphen"/>ligion; Were not our Church furniſhed with learned and able men, the Church of
+<hi>Rome</hi> would ſoon come in upon us, on our ignorant <hi>Blind ſide,</hi> and make her advantage, as ſhe hath already done in the Eaſtern Churches, which in little more than Age are almoſt over-run by her; and though they had a ſettled and ancient Conſtituti<g ref="char:EOLhyphen"/>on, and were generally ſufficiently prejudic'd a<g ref="char:EOLhyphen"/>gainſt the <hi>Romiſh</hi> Uſurpation; yet through their ignorance the Supremacy of the Pope is now their avowed Principle.</p>
+            <p>I ſhall conclude all in a Short Addreſs to you by way of Application, and Exhort you to the Purchaſe of Knowledg, in the ſame words that <hi>Solomon,</hi> does to that of<note n="*" place="margin">
+                  <hi>Prov.</hi>
+4.7, 8, 9.</note> 
+               <hi>Wiſdom. Knowledg is the Principal thing, therefore get knowledg, and with all thy getting get underſtanding; Exalt her, and ſhe ſhall promote thee, ſhe ſhall bring thee to Honour, when thou doſt imbrace her, ſhe ſhall give to thine Head an Orna<g ref="char:EOLhyphen"/>ment of grace, A Crown of glory ſhall ſhe deliver to thee;</hi> this <hi>Crown</hi> of Glory will very well become their <pb n="31" facs="tcp:49532:17"/>Heads, who have relation to
+<hi>Royal</hi>
+               <note n="*" place="margin">Such as are <hi>King</hi>'s
+<hi>Queen</hi>'s and <hi>Tri<g ref="char:EOLhyphen"/>nity</hi> Col<g ref="char:EOLhyphen"/>ledge.</note> 
+               <hi>Foundations,</hi> and that have had <hi>Kings for their nurſing Fathers, and Queens for their nurſing Mothers;</hi> this will place our Academic Youth above the reach of that re<g ref="char:EOLhyphen"/>prochful Character, which <hi>Menedemus</hi> gave of the Youth of
+<hi>Athens;</hi> namely, that the firſt year they went to <hi>Athens</hi> they were wiſe men, the ſecond year Philoſophers, the third Orators, and the fourth but meer <hi>Plebeians,</hi> and underſtood nothing but their own Ignorance; that is (according to our Modern Language) they were Golden
+<hi>Freſh<g ref="char:EOLhyphen"/>men,</hi> ſilver <hi>Sophiſters,</hi> leaden
+<hi>Butchelors,</hi> and woo<g ref="char:EOLhyphen"/>den <hi>Maſters of Art.</hi> O then make earneſt purſuits after Knowledg, and (above all Knowledg) be in Queſt of that, which is of moſt uſe to you in the practice of Virtue and Goodneſs. We read that when the Gods and Goddeſſes were chooſing thoſe trees they would have Sacred to them, after <hi>Apollo</hi> had choſen the Lawrel,
+<hi>Venus</hi> the Myr<g ref="char:EOLhyphen"/>tle, <hi>Pluto</hi> the Cypreſs, <hi>Hercules</hi> the Poplar, and <hi>Minerva</hi> the Olive; <hi>Minerva</hi> was commended a<g ref="char:EOLhyphen"/>bove all for her wiſe Choice; for that when the other Deities elected ſuch Trees as were fruitleſs, having reſpect onely to their ſtraightneſs, ſhade, of ſtrength; ſhe made choice of ſuch a one, as was uſeful and beneficial to men; So that, which denominates men truly knowing, is, when they
+<pb n="32" facs="tcp:49532:18"/>know thoſe things that are material, and really uſeful; for (as<note n="*" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </note>
+               <hi>Aeſchylus</hi> hath well told us) <hi>Not he, that knows much, but he, that knows what is moſt uſeful, is the Wiſeſt man.</hi> Sciences are multi<g ref="char:EOLhyphen"/>plied and grown to a great Perfection in theſe parts of the World; but becauſe it is Impoſſible to attain them all, our Apprentiſhip to them be<g ref="char:EOLhyphen"/>ing long, and our life ſhort; thoſe eſpecially ſhould be followed, which teach men both to live and dye well; this is the Learning ſo much recommended by <hi>Solomon;</hi>
+               <note n="*" place="margin">
+                  <hi>Prov.</hi>
+4.13.</note> 
+               <hi>take faſt hold of inſtruction, let her not go; keep her for ſhe is thy life:</hi> this Knowledg; this Learning, God grant us all, for his dear Son Jeſus Chriſt his ſake, to whom with the Father and the Holy Spirit, be Honour, Glory, and Praiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:49532:18"/>
+            <p>TWO Sermons formerly publiſhed by the ſame Author, and ſold by <hi>Benj. Billingſley.</hi>
+            </p>
+            <p n="1">A Sermon Preached before the Right Ho<g ref="char:EOLhyphen"/>nourable the Lord Mayor and Court of Alder<g ref="char:EOLhyphen"/>men of the City of <hi>London</hi> at
+<hi>Guild-Hall</hi> Chappel, <hi>Auguſt</hi> 18, 1678.</p>
+            <p n="2">2. The neceſſity of Receiving the Sacrament, declared in a Sermon at a Conference of the ſe<g ref="char:EOLhyphen"/>veral Miniſters of the Deanery of
+<hi>Braughin</hi> in the County of <hi>Hertford</hi> appointed by the Right Re<g ref="char:EOLhyphen"/>verend Father in God <hi>Henry</hi> Lord Biſhop of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> to be held at <hi>Ware,</hi> Aug. 28, 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
